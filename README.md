@@ -1,2 +1,3 @@
-# java-temperature-converter
-☀️ A temperature converter code using java
+# ☀️ Java Temperature Converter
+
+A temperature converter code using java
